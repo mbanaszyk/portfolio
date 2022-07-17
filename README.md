@@ -18,14 +18,6 @@ My name is Michal Banaszyk. I have a master's degree in philosophy and a bachelo
 - Agile / Scrum Framework
 # Courses
 
-# Books
-- Zawód tester - R. Smiglin
-- Testowanie oprogramowanie. Poradnik dla początkujących - R. Pawlak
-- Testowanie oprogramowania. Studium przypadków - A. Roman, K. Zmitrowicz
-- Testowanie oprogramowania. Studium przypadków 2.0 - A. Roman, K. Zmitrowicz
-- Certyfikowany tester ISTQB. Poziom podstawowy A. Roman, L. Stapp
-- Testowanie i jakość oprogramowania. Metody, narzędzia, techniki - A. Roman
-- Praktyka testowania. Zeszyt ćwiczeń - R. Smiglin
 
 # Certificates
 - [ISTQB Foundation Level](https://www.gasq.org/en/certification/check-a-certificate.html) - no. 
@@ -39,5 +31,4 @@ https://pl.linkedin.com/in/micha%C5%82-banaszyk-1b6962158
 
 # My projects and commercial experience
 - [uTest.com](http://utest.com) - Started crowdtesting since april 22'
-- Acorn - 
-- Cherry-IT - Project Odessa
+
