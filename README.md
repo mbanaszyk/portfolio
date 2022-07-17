@@ -16,10 +16,11 @@ My name is Michal Banaszyk. I have a master's degree in philosophy and a bachelo
 - Creating test cases
 - Executing test cases
 - Exploratory testing
-- Agile / Scrum Framework
+- API Testing
 - Performance testing
 - SQL Queries
 - Mind mapping
+- Agile/Scrum Framework
 # Courses
 - [Software Testing: Exploratory Testing]
 - [SQL for testers]
